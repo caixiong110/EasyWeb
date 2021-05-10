@@ -18,8 +18,8 @@ import (
 	"time"
 
 	"github.com/caixiong110/EasyWeb/models"
-	"github.com/caixiong110/EasyGoLib/db"
-	"github.com/caixiong110/EasyGoLib/utils"
+	"github.com/MeloQi/EasyGoLib/db"
+	"github.com/MeloQi/EasyGoLib/utils"
 
 	"github.com/teris-io/shortid"
 )

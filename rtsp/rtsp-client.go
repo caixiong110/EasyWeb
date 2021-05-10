@@ -18,7 +18,7 @@ import (
 
 	"github.com/teris-io/shortid"
 
-	"github.com/caixiong110/EasyGoLib/utils"
+	"github.com/MeloQi/EasyGoLib/utils"
 
 	"github.com/pixelbender/go-sdp/sdp"
 )

@@ -9,13 +9,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/caixiong110/EasyGoLib/db"
+	"github.com/MeloQi/EasyGoLib/db"
 
 	"github.com/caixiong110/EasyWeb/models"
 	"github.com/caixiong110/EasyWeb/routers"
 	"github.com/caixiong110/EasyWeb/rtsp"
 	figure "github.com/common-nighthawk/go-figure"
-	"github.com/caixiong110/EasyGoLib/utils"
+	"github.com/MeloQi/EasyGoLib/utils"
 	"github.com/caixiong110/service"
 )
 

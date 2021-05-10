@@ -6,7 +6,7 @@ import (
 
 	"github.com/caixiong110/EasyWeb/rtsp"
 	"github.com/gin-gonic/gin"
-	"github.com/caixiong110/EasyGoLib/utils"
+	"github.com/MeloQi/EasyGoLib/utils"
 )
 
 /**
