@@ -14,8 +14,8 @@ import (
 	"github.com/caixiong110/EasyGoLib/db"
 	"github.com/caixiong110/EasyGoLib/utils"
 	"github.com/gorilla/sessions"
-	"github.com/caixiong110/gopsutil/cpu"
-	"github.com/caixiong110/gopsutil/mem"
+	"github.com/shirou/gopsutil/cpu"
+	"github.com/shirou/gopsutil/mem"
 )
 
 /**
