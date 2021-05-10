@@ -3,7 +3,7 @@ package rtsp
 import (
 	"sync"
 	"time"
-	"github.com/MeloQi/EasyGoLib/utils"
+	"github.com/caixiong110/EasyGoLib/utils"
 )
 
 type Player struct {

@@ -7,12 +7,12 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/MeloQi/EasyGoLib/db"
+	"github.com/caixiong110/EasyGoLib/db"
 
 	"github.com/gin-contrib/pprof"
 	"github.com/gin-contrib/static"
 	"github.com/gin-gonic/gin"
-	"github.com/MeloQi/EasyGoLib/utils"
+	"github.com/caixiong110/EasyGoLib/utils"
 	"github.com/caixiong110/cors"
 	"github.com/gorilla/sessions"
 	validator "gopkg.in/go-playground/validator.v8"
