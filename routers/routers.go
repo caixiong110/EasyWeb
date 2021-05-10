@@ -14,7 +14,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/caixiong110/EasyGoLib/utils"
 	"github.com/caixiong110/cors"
-	"github.com/caixiong110/sessions"
+	"github.com/gorilla/sessions"
 	validator "gopkg.in/go-playground/validator.v8"
 )
 

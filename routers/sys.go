@@ -13,7 +13,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/caixiong110/EasyGoLib/db"
 	"github.com/caixiong110/EasyGoLib/utils"
-	"github.com/caixiong110/sessions"
+	"github.com/gorilla/sessions"
 	"github.com/caixiong110/gopsutil/cpu"
 	"github.com/caixiong110/gopsutil/mem"
 )
